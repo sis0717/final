@@ -1,0 +1,166 @@
+* {
+
+    margin: 0;
+    
+    padding: 0;
+    
+    box-sizing: inherit;
+    
+    }
+
+header{
+    background-color: #686868;
+    margin: 0px;
+    height: 100px;
+}
+
+body{
+    background-color: #bbc1c1;
+}
+
+article{
+    margin:0px;
+    padding: 10px;
+}
+
+.left{
+    float: left;
+    width: 50%;
+}
+
+.right{
+    float: right;
+    width: 50%;
+}
+
+.i13{
+    width: 500px;
+    height: 350px;
+    margin-left: 30%;
+    margin-top: 12%;
+    border-radius: 10px;
+}
+
+.name{
+    margin-top: 12%;
+    margin-right: 15%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 300%;
+}
+
+.price{
+    float: left;
+    width: 50%;
+    
+}
+
+.love{
+    float: right;
+    width: 50%;
+}
+
+.heart{
+    margin: 5%;
+    width: 25px;
+    height: 25px;
+}
+
+.nt{
+    margin: 5%;
+    margin-left: 40%;
+}
+
+.color{
+    margin: 5%;
+    margin-left: 20%;
+}
+
+.less{
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: #686868;
+    background-color: #DDDDDD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#686868 ;
+}
+
+.add{
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: #686868;
+    background-color: #DDDDDD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#686868 ;
+}
+
+.quantity{
+    color:#686868 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+}
+
+.number{
+    margin-left: 23%;
+}
+
+.cart{
+    margin: 20px;
+    margin-left: 15%;  
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+    border-color: #686868;
+    background-color: #DDDDDD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#686868;
+}
+
+.introduce{
+    margin: 20%;
+    width: 60%;
+    
+}
+
+.intro{
+    margin-left: 41%;
+}
+
+p{
+    text-align: center;
+    font-family: 微軟正黑體;
+    font-size: 14px;
+}
+
+.review{
+    margin: 20%;
+    width: 60%;
+}
+
+.rev{
+    margin-left: 45%;   
+}
+
+.people{
+    margin: 10px;
+    width: 8%;
+    margin-left: 15%;
+}
+
+.sth{
+    margin: 10px;
+    text-align: center;
+    font-family: 微軟正黑體;
+    float: right;
+    width: 70%;
+    margin-top: 10px;
+}
+
+h3{
+    font-weight: bold;
+    float: left;
+}
